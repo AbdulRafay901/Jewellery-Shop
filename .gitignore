@@ -1,0 +1,15 @@
+# SMTP
+
+admin/order/shipped_email.php
+
+authentication/emailVerification.php
+
+authentication/forget_email.php
+
+# Database
+
+includes/db.php
+
+# Composer
+
+/vendor/
