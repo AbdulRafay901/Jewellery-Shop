@@ -6,6 +6,7 @@ authentication/emailVerification.php
 
 authentication/forget_email.php
 
+
 # Database
 
 includes/db.php
@@ -13,3 +14,7 @@ includes/db.php
 # Composer
 
 /vendor/
+
+
+.VSCodeCounter/
+.vscode/
