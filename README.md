@@ -4,7 +4,7 @@ A fully functional E-Commerce Web Application developed using Core PHP and MySQL
 
 The application follows secure development practices using PDO prepared statements, input validation, session-based authentication, and role-based authorization.
 
-## 🔗 Live Demo
+## 🔗 Live Link
 
 👉 https://jewelleryshop.infinityfreeapp.com/
 
@@ -133,15 +133,21 @@ The application follows secure development practices using PDO prepared statemen
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### Home Page
 
-- Home Page
-- Product Listing
-- Product Details
-- Shopping Cart
-- Checkout Page
-- Login & Registration
-- Admin Dashboard
+<img src="assets/images/home.png" width="100%">
+
+### Product Listing
+
+<img src="assets/images/products.png" width="100%">
+
+### Shopping Cart
+
+<img src="assets/images/cart.png" width="100%">
+
+### Admin Dashboard
+
+<img src="assets/images/admin.png" width="100%">
 
 ---
 
@@ -150,7 +156,7 @@ Add screenshots of:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/AbdulRafay901/Ecommerce-Website.git
 ```
 
 ### Configure Database
